@@ -1,0 +1,7 @@
+churniq_env/
+__pycache__/
+*.pyc
+models/*.pkl
+models/*.joblib
+dataset/*.csv
+.streamlit/
