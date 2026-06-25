@@ -319,12 +319,6 @@ Business priority = Catch churners early.
 
 ---
 
-### Customer Segmentation
-
-![Customer Segmentation](screenshots/customer-segmentation.png)
-
----
-
 ## Dataset
 
 Dataset used:
